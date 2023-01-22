@@ -5,7 +5,7 @@
 
 - 🌱 I’m looking for Ph.D. positions to further my research career.
 
-- Checkout a new Programming language that I created for French Speakers called **Lune** (Work In progress... I would love to have some people to work with me)
+- Checkout a new programming language that I created for French Speakers called **Lune** (Work In progress... I would love to have some people to work with me)
 
 - 📫 How to reach me **irakoze.andy@gmail.com**
 
