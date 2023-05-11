@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Andy Florian Irakoze</h1>
 <h3 align="center">Software Engineer and Researcher based in St. Louis, MO</h3>
 
-- 🔭 I’m currently working on various research projects (MPTCP and IoT).
+- 🔭 I’m currently working on various research projects (mainly in IoT).
 
 - 🌱 I’m looking for Ph.D. positions to further my research career.
 
-- Checkout a new programming language that I created for French Speakers called **Lune** (Work In progress... I would love to have some people to work with me)
+- Checkout a new programming language that I created for French Speakers called **Lune** (Work In progress... I would love to have some people work with me)
 
 - 📫 How to reach me **irakoze.andy@gmail.com**
 
